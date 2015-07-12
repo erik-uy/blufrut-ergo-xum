@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.5"
-     inkscape:cx="582.24028"
-     inkscape:cy="360.63593"
+     inkscape:zoom="0.77917728"
+     inkscape:cx="884.74037"
+     inkscape:cy="599.51698"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4231,12 +4231,12 @@
          style="stroke:#0000ff;stroke-width:0.03543307;stroke-miterlimit:4;stroke-dasharray:none;fill:none" />
     </g>
     <use
-       style="stroke:#0000ff;stroke-width:0.03543307;stroke-miterlimit:4;stroke-dasharray:none;opacity:1;fill:none"
+       style="opacity:1;fill:none;stroke:#0000ff;stroke-width:0.03543307;stroke-miterlimit:4;stroke-dasharray:none"
        x="0"
        y="0"
        xlink:href="#g31181"
        id="use33923"
-       transform="matrix(0,1,-1,0,1110.4679,-365.44896)"
+       transform="matrix(0,1,-1,0,1116.4679,-355.44896)"
        width="100%"
        height="100%" />
     <use
@@ -4253,9 +4253,9 @@
        y="0"
        xlink:href="#use33923"
        id="use33942"
-       transform="matrix(-1,0,0,1,1362.2009,4.1093303)"
+       transform="matrix(-1,0,0,1,1360.2009,0.10932986)"
        width="100%"
        height="100%"
-       style="stroke-width:0.03543307;stroke-miterlimit:4;stroke-dasharray:none;opacity:1;fill:none" />
+       style="opacity:1;fill:none;stroke-width:0.03543307;stroke-miterlimit:4;stroke-dasharray:none" />
   </g>
 </svg>
